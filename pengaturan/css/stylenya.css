@@ -1,0 +1,10 @@
+body{background-image:url(../img/patter.png);
+background-repeat:repeat;
+}
+<style>
+        #scrolll{
+			height:430px;
+			overflow-y:scroll;
+			overflow-style:marquee-line;
+}
+</style>

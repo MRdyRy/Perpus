@@ -1,0 +1,27 @@
+ -folder ebook
+ -folder foto
+index.php
+arah.php
+ceklogin.php
+logout.php
+koneksi.php
+
+folder admin :
+index.php
+admin.php
+arah.php
+cari.php
+cetakkartu.php
+kelolabuku.php
+kelolauser.php
+profil.php
+
+folder user :
+index.php
+profil.php
+arah.php
+aktifitas.php
+caribuku.php
+proses_ebook.php
+user.php
+upload_ebook.php
